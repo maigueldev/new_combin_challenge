@@ -9,9 +9,6 @@
       </a>
     </nav>
     <div class="container mt-5">
-      <nav>
-        <router-link to="/">Home</router-link>
-      </nav>
       <router-view />
     </div>
 
