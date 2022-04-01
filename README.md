@@ -8,7 +8,7 @@
 ```
 npm install
 ```
-2.1 E inicializamos la API
+2.1 Inicializamos la API
 ```
 npm run serve
 ```
