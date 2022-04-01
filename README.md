@@ -28,4 +28,4 @@ Luego que hayas inicializado el front ingresar a [http://localhost:8080]
 
 Deberías poder visualizar la siguiente pantalla
 
-![alt text](https://github.com/maigueldev/new_combin_challenge/miniFrontend.png "Frontend")
+![alt text](https://github.com/maigueldev/new_combin_challenge/blob/master/miniFrontend.png "Frontend")
