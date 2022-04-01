@@ -24,7 +24,7 @@ cd frontend && npm install
 npm run serve
 ```
 
-Luego que hayas inicializado el front ingresar a [http://localhost:8080]
+Luego que hayas inicializado el front ingresar a http://localhost:8080
 
 Deberías poder visualizar la siguiente pantalla
 
